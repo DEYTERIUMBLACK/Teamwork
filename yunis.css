@@ -1,0 +1,20 @@
+#section-4 .box {
+    display: block;
+    /* width: 200px; */
+    /* height: 200px; */
+    margin-right: 1rem;
+}
+
+#section-4 .box-wrapper {
+    margin-right: .5rem;
+    width: 300px;
+    height: 300px;
+}
+
+#section-4 .box-wrapper:nth-child(1) {
+    background-color: red;
+}
+
+#section-4 .box-wrapper:nth-child(2) {
+    background-color: green;
+}

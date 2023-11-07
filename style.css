@@ -41,4 +41,18 @@
     background-color: black;
 }
 
-
+#section5 .box1{
+    height: 150px;
+    width: 300px;
+    background-color: green;
+}
+#section5 .box2{
+    height: 150px;
+    width: 300px;
+    background-color: red;
+}
+#section5 .box3{
+    height: 150px;
+    width: 300px;
+    background-color: blue;
+}
