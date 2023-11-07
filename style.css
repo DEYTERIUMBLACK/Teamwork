@@ -1,0 +1,31 @@
+/***** Section 1 *****/
+#section-1 .box {
+    display: block;
+    /* width: 200px; */
+    /* height: 200px; */
+    margin-right: 1rem;
+}
+
+#section-1 .box-wrapper {
+    margin-right: .5rem;
+    width: 300px;
+    height: 300px;
+}
+
+#section-1 .box-wrapper:nth-child(1) {
+    background-color: red;
+}
+
+#section-1 .box-wrapper:nth-child(2) {
+    background-color: green;
+}
+
+#section-1 .box-wrapper:nth-child(3) {
+    background-color: blue;
+}
+
+#section-1 .box-wrapper:nth-child(4) {
+    background-color: black;
+}
+
+/***** End Section 1 *****/
