@@ -1,3 +1,16 @@
+
+/***** Section *****/
+#section2 .box1{
+    height: 150px;
+    width: 300px;
+    background-color: green;
+}
+#section2 .box2{
+    height: 150px;
+    width: 300px;
+    background-color: red;
+}
+/***** End Section *****/
 /***** Section 1 *****/
 #section-1 .box {
     display: block;
@@ -27,5 +40,3 @@
 #section-1 .box-wrapper:nth-child(4) {
     background-color: black;
 }
-
-/***** End Section 1 *****/
